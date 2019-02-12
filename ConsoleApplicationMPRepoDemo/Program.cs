@@ -10,6 +10,7 @@ namespace ConsoleApplicationMPRepoDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, I'm the MP Team Administrator");
         }
     }
 }
