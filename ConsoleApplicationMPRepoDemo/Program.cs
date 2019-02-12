@@ -11,6 +11,7 @@ namespace ConsoleApplicationMPRepoDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, I'm the MP Team Administrator");
+            Console.WriteLine("Hello, I am Programmer 1 on your Team");
         }
     }
 }
